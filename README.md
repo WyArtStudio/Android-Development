@@ -5,6 +5,6 @@ You can use this sources for free.
 
 Credit : WyArt Studio
 
-Blog : https://wyartstudio.blogspot.com/
+Blog : https://wyart-studio.firebaseapp.com/
 
 Happy Coding !
